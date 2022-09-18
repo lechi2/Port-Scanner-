@@ -1,3 +1,3 @@
 # Port-Scanner-
 
-Hi, I made a port scanner for fun in python. 
+Hi, I learned how to make a port scanner in python for fun.
