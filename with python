@@ -15,7 +15,7 @@ else:
     print("Invalid amount of Argument")
 
 #Add Banner
-target = "168.148.8.154"
+target = "127.0.0."
 print("-" * 50)
 print("Scanning Target: " + target)
 print("Scanning Target: " + str(datetime.now()))
